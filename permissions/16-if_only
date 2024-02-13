@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent hello if [$file_owner = guillaume]
+chown --from=guillaume vincent hello
