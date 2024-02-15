@@ -1,1 +1,21 @@
 ls -la
+total 100
+drwxr-xr-x 1 luis luis   398 Feb 15 13:05 .
+drwxr-xr-x 1 luis luis   150 Feb 14 10:13 ..
+-rwxr-xr-x 1 luis luis    33 Feb 14 10:45 0-hello_world
+-rw-r--r-- 1 luis luis 12288 Feb 14 15:01 .0-hello_world.swp
+-rwxr-xr-x 1 luis luis    28 Feb 14 10:57 1-confused_smiley
+-rwxr-xr-x 1 luis luis    28 Feb 14 11:05 2-hellofile
+-rwxr-xr-x 1 luis luis    39 Feb 14 11:06 3-twofiles
+-rwxr-xr-x 1 luis luis    38 Feb 14 11:17 4-lastlines
+-rwxr-xr-x 1 luis luis    37 Feb 14 11:19 5-firstlines
+-rwxr-xr-x 1 luis luis    41 Feb 14 14:40 6-third_line
+-rw-r--r-- 1 luis luis 12288 Feb 14 13:35 .6-third_line.swn
+-rwxr-xr-x 1 luis luis    96 Feb 15 10:39 7-file
+-rw-r--r-- 1 luis luis 12288 Feb 14 19:50 .7-file.swn
+-rw-r--r-- 1 luis luis 12288 Feb 14 14:57 .7-file.swp
+-rwxr-xr-x 1 luis luis    37 Feb 15 13:05 8-cwd_state
+-rw-r--r-- 1 luis luis     1 Feb 14 10:35 Hello,World
+-rw-r--r-- 1 luis luis   745 Feb 14 13:37 iacta
+-rw-r--r-- 1 luis luis     7 Feb 15 13:03 ls_cwd_content
+-rw-r--r-- 1 luis luis    36 Feb 14 10:13 README.md
