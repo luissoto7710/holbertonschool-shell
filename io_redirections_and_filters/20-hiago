@@ -1,2 +1,2 @@
 #!/bin/bash
-rm [c C]
+rm [c,C]
